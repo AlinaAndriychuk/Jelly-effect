@@ -1,7 +1,5 @@
 # Jelly-effect
 
-[Link](https://alinaandriychuk.github.io/Jelly-effect/build/)
-
 #How to use
 
 Clone this repo and then in command line type:
